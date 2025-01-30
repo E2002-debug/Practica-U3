@@ -1,0 +1,45 @@
+{% extends "templateL.html" %}
+{% block content %}
+<br>
+<br>
+<br>
+<h2 class="text-white">Lista de vet</h2>
+<div class="booking-form-body">
+    <a href="/vet/registrar" class="btn btn-primary">AGREGAR</a>
+    <a href="http://localhost:8080/myapp/vet/grafo" target="_blank" class="btn btn-success">VER GRAFO</a>
+    <a href="/matriz" class="btn btn-primary">Matriz de Adyacencias</a>
+    <table id="tabla" class="table text-black">
+        <thead>
+            <th>Nro</th>
+            <th>Nombre</th>
+            <th>Direccion</th>
+            <th>Telefono</th>
+            <th>Veterinario</th>
+            <th>Coordenadas</th> <!-- Cambiar "Latitud" y "Longitud" por "Coordenadas" -->
+            <th>Actions</th>
+            <th>Actions</th>
+        </thead>
+        <tbody>
+            {% for item in lista %}
+                <tr>
+                    <td>{{item.id}}</td>
+                    <td>{{item.nombre}}</td>
+                    <td>{{item.direccion}}</td>
+                    <td>{{item.telefono}}</td>
+                    <td>{{item.nombre_Veterinario}}</td>
+                    <!-- Mostrar latitud y longitud en una sola celda -->
+                    <td>{{item.latitud}}, {{item.longitud}}</td> <!-- Coordenadas combinadas -->
+                    <td><a href="/vet/editar/{{item.id}}" class="btn btn-info">Modificar</a></td>
+                    <td>
+                        <form action="/vet/eliminar" method="post">
+                            <input type="hidden" name="id" value="{{ item.id }}">
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
+
