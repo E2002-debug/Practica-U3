@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "nombre": "ClinicaVeterinarioPatas",
+        "direccion": "Av.PrincipalRigoberto",
+        "telefono": "555-1234",
+        "nombre_Veterinario": "Dra.ManuelCruz",
+        "latitud": -79.20346962594537,
+        "longitud": -4.006684424441776
+    },
+    {
+        "id": 2,
+        "nombre": "ClinicaVeterinarioSanFernando",
+        "direccion": "Av.AbelardoJAndradeyCalledelPerejil",
+        "telefono": "4087619",
+        "nombre_Veterinario": "Dra.FernandaLopez",
+        "latitud": -29.20346962594537,
+        "longitud": -44.00668442444178
+    },
+    {
+        "id": 3,
+        "nombre": "ClinicaVeterinarioSanFrancisco",
+        "direccion": "Av.AbelardoJAndradeyCalledelPerejil",
+        "telefono": "4087619",
+        "nombre_Veterinario": "Dra.FernandaLopez",
+        "latitud": -69.20346962594537,
+        "longitud": -14.00668442444178
+    },
+    {
+        "id": 4,
+        "nombre": "ClinicaVeterinarioSanJuan",
+        "direccion": "Av.AbelardoJAndradeyCalledelPerejil",
+        "telefono": "4087619",
+        "nombre_Veterinario": "Dra.FernandaLopez",
+        "latitud": -89.20346962594537,
+        "longitud": -74.00668442444179
+    },
+    {
+        "id": 5,
+        "nombre": "VeterinariaBuenaEsperanza",
+        "direccion": "Sto.DomingodeGuzmán,BarrioVictorEmilioValdiviezo",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "Dr.CarlosCruz",
+        "latitud": -4.014257944246603,
+        "longitud": -79.241681098938
+    },
+    {
+        "id": 6,
+        "nombre": "VeterinariaDonBigotes",
+        "direccion": "Shuaras,Miraflores",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "RaulFuentes",
+        "latitud": -3.994216645358244,
+        "longitud": -79.2114823937195
+    },
+    {
+        "id": 7,
+        "nombre": "VeterinariaAmigosFelices",
+        "direccion": "Bolivar,ElAtillo",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "LeahColbourn",
+        "latitud": -4.258935902803438,
+        "longitud": -79.22188298376778
+    },
+    {
+        "id": 8,
+        "nombre": "VeterinariaSolidariaArcadeNoe",
+        "direccion": "Av.HéroesdeVerdeloma,BarrioLazareto",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "CristopherMorgan",
+        "latitud": -2.888503899636769,
+        "longitud": -79.00444194414182
+    },
+    {
+        "id": 9,
+        "nombre": "VeterinariaDonBosco",
+        "direccion": "Direcciónnodisponible",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "RachelJames",
+        "latitud": -3.609354735800392,
+        "longitud": -79.22623430915755
+    },
+    {
+        "id": 10,
+        "nombre": "MascotaFelizVeterinaria",
+        "direccion": "Sta.TeresitadeJesús,BarrioVictorEmilioValdiviezo",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "IsabelMorocho",
+        "latitud": -4.012185574288783,
+        "longitud": -79.24064321518148
+    },
+    {
+        "id": 11,
+        "nombre": "HuellitasFelicesVeterinaria",
+        "direccion": "Catamayo,LosApuros",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "YeimyMontoya",
+        "latitud": -4.010362851295344,
+        "longitud": -79.19735555968833
+    },
+    {
+        "id": 12,
+        "nombre": "PatitasClinicaVeterinaria",
+        "direccion": "JoseRizal",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "JennyBravo",
+        "latitud": -4.018509841241153,
+        "longitud": -79.20473615414069
+    },
+    {
+        "id": 13,
+        "nombre": "GuardianPetVeterinary",
+        "direccion": "Argentina",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "CarlosLopez",
+        "latitud": -4.012084773214739,
+        "longitud": -79.20651737474316
+    },
+    {
+        "id": 14,
+        "nombre": "ClínicaBestFriendVet",
+        "direccion": "ManuelBenjaminCarrión",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "ManuelGuitierrez",
+        "latitud": -4.018433102742289,
+        "longitud": -79.21103198625168
+    },
+    {
+        "id": 15,
+        "nombre": "HarmonyVetCare",
+        "direccion": "Tachira",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "AbyLondon",
+        "latitud": -4.008506864393112,
+        "longitud": -79.22608417522055
+    },
+    {
+        "id": 16,
+        "nombre": "HospitalVeterinarioAnimalcare",
+        "direccion": "Colombia,BarrioLaTebaida",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "EmaJames",
+        "latitud": -4.0096529143251765,
+        "longitud": -79.20854653520027
+    },
+    {
+        "id": 17,
+        "nombre": "HospitalVeterinarioAminalFeliz",
+        "direccion": "LaCondamine,BarrioLaArgelia",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "TomasBenavidez",
+        "latitud": -4.031739162423877,
+        "longitud": -79.20385583144103
+    },
+    {
+        "id": 18,
+        "nombre": "ClinicaVeterinariaAullidos",
+        "direccion": "RíoOso",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "AmelyRomanova",
+        "latitud": -4.005337386676268,
+        "longitud": -79.18788187299697
+    },
+    {
+        "id": 19,
+        "nombre": "ClinicaVeterinariaMaskoteando",
+        "direccion": "1°Pasaje42ANO",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "LeonelMessi",
+        "latitud": -2.148882131768892,
+        "longitud": -79.93997510965814
+    },
+    {
+        "id": 20,
+        "nombre": "Hospital Veterinario Municipal",
+        "direccion": "Av. 12 de Abril",
+        "telefono": "0986509775",
+        "nombre_Veterinario": "Cristhian Zamora",
+        "latitud": -2.8973364500218834,
+        "longitud": -79.0139882758897
+    },
+    {
+        "id": 21,
+        "nombre": "San Roque PetCare",
+        "direccion": "Av. Amazonas y Eloy Alfaro",
+        "telefono": "0991234567",
+        "nombre_Veterinario": "Dr. Jorge Castillo",
+        "latitud": -2.905467,
+        "longitud": -79.005678
+    },
+    {
+        "id": 22,
+        "nombre": "VetSalud",
+        "direccion": "Av. 6 de Diciembre y Granados",
+        "telefono": "0997654321",
+        "nombre_Veterinario": "Dra. Verónica Sánchez",
+        "latitud": -2.889500,
+        "longitud": -79.025678
+    },
+    {
+        "id": 23,
+        "nombre": "PetLife Clínica Veterinaria",
+        "direccion": "Av. República y 10 de Agosto",
+        "telefono": "0981122334",
+        "nombre_Veterinario": "Dr. Fernando Pérez",
+        "latitud": -2.877654,
+        "longitud": -79.045678
+    },
+    {
+        "id": 24,
+        "nombre": "Mundo Animal",
+        "direccion": "Av. Simón Bolívar y Galo Plaza",
+        "telefono": "0979876543",
+        "nombre_Veterinario": "Dra. Carolina Fernández",
+        "latitud": -2.868765,
+        "longitud": -79.055678
+    },
+    {
+        "id": 25,
+        "nombre": "Vida Animal Clínica",
+        "direccion": "Calle Sucre y Bolívar",
+        "telefono": "0969988776",
+        "nombre_Veterinario": "Dr. Luis Almeida",
+        "latitud": -2.857342,
+        "longitud": -79.065678
+    },
+    {
+        "id": 26,
+        "nombre": "Huellitas de Amor",
+        "direccion": "Av. El Inca y De los Nogales",
+        "telefono": "0957766554",
+        "nombre_Veterinario": "Dra. Susana Ruiz",
+        "latitud": -2.845678,
+        "longitud": -79.075678
+    },
+    {
+        "id": 27,
+        "nombre": "Clinica Vet Paws & Care",
+        "direccion": "Av. La Prensa y Luis Tufiño",
+        "telefono": "0946677889",
+        "nombre_Veterinario": "Dr. Ricardo Mejía",
+        "latitud": -2.833456,
+        "longitud": -79.085678
+    },
+    {
+        "id": 28,
+        "nombre": "Veterinaria Bienestar Animal",
+        "direccion": "Av. 10 de Agosto y Patria",
+        "telefono": "0935566778",
+        "nombre_Veterinario": "Dra. Andrea Vaca",
+        "latitud": -2.821234,
+        "longitud": -79.095678
+    },
+    {
+        "id": 29,
+        "nombre": "Clínica Pet Lovers",
+        "direccion": "Av. Orellana y Amazonas",
+        "telefono": "0924455667",
+        "nombre_Veterinario": "Dr. Sebastián Cordero",
+        "latitud": -2.809876,
+        "longitud": -79.105678
+    },
+    {
+        "id": 30,
+        "nombre": "VetHome Cuidado Animal",
+        "direccion": "Av. Mariana de Jesús y América",
+        "telefono": "0913344556",
+        "nombre_Veterinario": "Dra. Julia Morales",
+        "latitud": -2.798765,
+        "longitud": -79.115678
+    }
+]

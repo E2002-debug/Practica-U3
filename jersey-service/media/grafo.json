@@ -1,0 +1,986 @@
+{
+  "etiquetas": [
+    {
+      "id": 1,
+      "label": "ClinicaVeterinarioPatas"
+    },
+    {
+      "id": 2,
+      "label": "ClinicaVeterinarioSanFernando"
+    },
+    {
+      "id": 3,
+      "label": "ClinicaVeterinarioSanFrancisco"
+    },
+    {
+      "id": 4,
+      "label": "ClinicaVeterinarioSanJuan"
+    },
+    {
+      "id": 5,
+      "label": "VeterinariaBuenaEsperanza"
+    },
+    {
+      "id": 6,
+      "label": "VeterinariaDonBigotes"
+    },
+    {
+      "id": 7,
+      "label": "VeterinariaAmigosFelices"
+    },
+    {
+      "id": 8,
+      "label": "VeterinariaSolidariaArcadeNoe"
+    },
+    {
+      "id": 9,
+      "label": "VeterinariaDonBosco"
+    },
+    {
+      "id": 10,
+      "label": "MascotaFelizVeterinaria"
+    },
+    {
+      "id": 11,
+      "label": "HuellitasFelicesVeterinaria"
+    },
+    {
+      "id": 12,
+      "label": "PatitasClinicaVeterinaria"
+    },
+    {
+      "id": 13,
+      "label": "GuardianPetVeterinary"
+    },
+    {
+      "id": 14,
+      "label": "ClínicaBestFriendVet"
+    },
+    {
+      "id": 15,
+      "label": "HarmonyVetCare"
+    },
+    {
+      "id": 16,
+      "label": "HospitalVeterinarioAnimalcare"
+    },
+    {
+      "id": 17,
+      "label": "HospitalVeterinarioAminalFeliz"
+    },
+    {
+      "id": 18,
+      "label": "ClinicaVeterinariaAullidos"
+    },
+    {
+      "id": 19,
+      "label": "ClinicaVeterinariaMaskoteando"
+    },
+    {
+      "id": 20,
+      "label": "HospitalVeterinarioMunicipal"
+    },
+    {
+      "id": 21,
+      "label": "SanRoquePetCare"
+    },
+    {
+      "id": 22,
+      "label": "VetSalud"
+    },
+    {
+      "id": 23,
+      "label": "PetLifeClínicaVeterinaria"
+    },
+    {
+      "id": 24,
+      "label": "MundoAnimal"
+    },
+    {
+      "id": 25,
+      "label": "VidaAnimalClínica"
+    },
+    {
+      "id": 26,
+      "label": "HuellitasdeAmor"
+    },
+    {
+      "id": 27,
+      "label": "ClinicaVetPaws\u0026Care"
+    },
+    {
+      "id": 28,
+      "label": "VeterinariaBienestarAnimal"
+    },
+    {
+      "id": 29,
+      "label": "ClínicaPetLovers"
+    },
+    {
+      "id": 30,
+      "label": "VetHomeCuidadoAnimal"
+    }
+  ],
+  "aristas": [
+    {
+      "from": 1,
+      "to": 20,
+      "weight": 9381.866
+    },
+    {
+      "from": 1,
+      "to": 17,
+      "weight": 9261.673
+    },
+    {
+      "from": 1,
+      "to": 15,
+      "weight": 9264.662
+    },
+    {
+      "from": 2,
+      "to": 7,
+      "weight": 4629.42
+    },
+    {
+      "from": 2,
+      "to": 25,
+      "weight": 4719.441
+    },
+    {
+      "from": 2,
+      "to": 12,
+      "weight": 4645.468
+    },
+    {
+      "from": 3,
+      "to": 12,
+      "weight": 8632.973
+    },
+    {
+      "from": 3,
+      "to": 18,
+      "weight": 8633.738
+    },
+    {
+      "from": 3,
+      "to": 23,
+      "weight": 8746.953
+    },
+    {
+      "from": 3,
+      "to": 20,
+      "weight": 8743.73
+    },
+    {
+      "from": 4,
+      "to": 8,
+      "weight": 9598.123
+    },
+    {
+      "from": 4,
+      "to": 28,
+      "weight": 9605.616
+    },
+    {
+      "from": 4,
+      "to": 21,
+      "weight": 9596.237
+    },
+    {
+      "from": 4,
+      "to": 9,
+      "weight": 9517.999
+    },
+    {
+      "from": 4,
+      "to": 19,
+      "weight": 9680.503
+    },
+    {
+      "from": 4,
+      "to": 24,
+      "weight": 9600.325
+    },
+    {
+      "from": 4,
+      "to": 30,
+      "weight": 9608.117
+    },
+    {
+      "from": 5,
+      "to": 29,
+      "weight": 134.76929
+    },
+    {
+      "from": 5,
+      "to": 13,
+      "weight": 3.9079185
+    },
+    {
+      "from": 5,
+      "to": 20,
+      "weight": 126.74113
+    },
+    {
+      "from": 5,
+      "to": 17,
+      "weight": 4.624027
+    },
+    {
+      "from": 5,
+      "to": 26,
+      "weight": 131.24
+    },
+    {
+      "from": 5,
+      "to": 27,
+      "weight": 132.43604
+    },
+    {
+      "from": 6,
+      "to": 17,
+      "weight": 4.2572107
+    },
+    {
+      "from": 6,
+      "to": 13,
+      "weight": 2.0617628
+    },
+    {
+      "from": 6,
+      "to": 9,
+      "weight": 42.82598
+    },
+    {
+      "from": 6,
+      "to": 14,
+      "weight": 2.6932106
+    },
+    {
+      "from": 6,
+      "to": 23,
+      "weight": 125.5126
+    },
+    {
+      "from": 7,
+      "to": 2,
+      "weight": 4629.42
+    },
+    {
+      "from": 7,
+      "to": 19,
+      "weight": 247.80043
+    },
+    {
+      "from": 7,
+      "to": 29,
+      "weight": 161.64339
+    },
+    {
+      "from": 7,
+      "to": 28,
+      "weight": 160.47754
+    },
+    {
+      "from": 7,
+      "to": 10,
+      "weight": 27.51616
+    },
+    {
+      "from": 7,
+      "to": 16,
+      "weight": 27.758438
+    },
+    {
+      "from": 7,
+      "to": 20,
+      "weight": 153.1507
+    },
+    {
+      "from": 8,
+      "to": 4,
+      "weight": 9598.123
+    },
+    {
+      "from": 8,
+      "to": 17,
+      "weight": 129.03435
+    },
+    {
+      "from": 8,
+      "to": 16,
+      "weight": 126.707664
+    },
+    {
+      "from": 8,
+      "to": 12,
+      "weight": 127.60239
+    },
+    {
+      "from": 8,
+      "to": 15,
+      "weight": 126.9451
+    },
+    {
+      "from": 8,
+      "to": 22,
+      "weight": 2.36094
+    },
+    {
+      "from": 8,
+      "to": 25,
+      "weight": 7.632459
+    },
+    {
+      "from": 8,
+      "to": 29,
+      "weight": 14.242399
+    },
+    {
+      "from": 9,
+      "to": 6,
+      "weight": 42.82598
+    },
+    {
+      "from": 9,
+      "to": 23,
+      "weight": 83.7942
+    },
+    {
+      "from": 9,
+      "to": 17,
+      "weight": 47.032585
+    },
+    {
+      "from": 9,
+      "to": 4,
+      "weight": 9517.999
+    },
+    {
+      "from": 9,
+      "to": 12,
+      "weight": 45.558453
+    },
+    {
+      "from": 10,
+      "to": 18,
+      "weight": 5.9017715
+    },
+    {
+      "from": 10,
+      "to": 7,
+      "weight": 27.51616
+    },
+    {
+      "from": 10,
+      "to": 16,
+      "weight": 3.5713675
+    },
+    {
+      "from": 10,
+      "to": 21,
+      "weight": 125.79444
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "weight": 1.0341315
+    },
+    {
+      "from": 11,
+      "to": 15,
+      "weight": 3.1933336
+    },
+    {
+      "from": 11,
+      "to": 25,
+      "weight": 129.04042
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "weight": 1.2210177
+    },
+    {
+      "from": 11,
+      "to": 19,
+      "weight": 222.80516
+    },
+    {
+      "from": 11,
+      "to": 26,
+      "weight": 130.20935
+    },
+    {
+      "from": 11,
+      "to": 29,
+      "weight": 133.87534
+    },
+    {
+      "from": 12,
+      "to": 2,
+      "weight": 4645.468
+    },
+    {
+      "from": 12,
+      "to": 3,
+      "weight": 8632.973
+    },
+    {
+      "from": 12,
+      "to": 8,
+      "weight": 127.60239
+    },
+    {
+      "from": 12,
+      "to": 22,
+      "weight": 127.103516
+    },
+    {
+      "from": 12,
+      "to": 11,
+      "weight": 1.2210177
+    },
+    {
+      "from": 12,
+      "to": 9,
+      "weight": 45.558453
+    },
+    {
+      "from": 12,
+      "to": 14,
+      "weight": 0.6983956
+    },
+    {
+      "from": 12,
+      "to": 24,
+      "weight": 128.91183
+    },
+    {
+      "from": 12,
+      "to": 27,
+      "weight": 132.43294
+    },
+    {
+      "from": 13,
+      "to": 5,
+      "weight": 3.9079185
+    },
+    {
+      "from": 13,
+      "to": 6,
+      "weight": 2.0617628
+    },
+    {
+      "from": 13,
+      "to": 11,
+      "weight": 1.0341315
+    },
+    {
+      "from": 13,
+      "to": 27,
+      "weight": 131.74208
+    },
+    {
+      "from": 13,
+      "to": 15,
+      "weight": 2.206564
+    },
+    {
+      "from": 13,
+      "to": 24,
+      "weight": 128.229
+    },
+    {
+      "from": 13,
+      "to": 18,
+      "weight": 2.199052
+    },
+    {
+      "from": 13,
+      "to": 22,
+      "weight": 126.42917
+    },
+    {
+      "from": 14,
+      "to": 19,
+      "weight": 223.08357
+    },
+    {
+      "from": 14,
+      "to": 12,
+      "weight": 0.6983956
+    },
+    {
+      "from": 14,
+      "to": 6,
+      "weight": 2.6932106
+    },
+    {
+      "from": 14,
+      "to": 24,
+      "weight": 128.99492
+    },
+    {
+      "from": 14,
+      "to": 28,
+      "weight": 133.73677
+    },
+    {
+      "from": 15,
+      "to": 1,
+      "weight": 9264.662
+    },
+    {
+      "from": 15,
+      "to": 11,
+      "weight": 3.1933336
+    },
+    {
+      "from": 15,
+      "to": 13,
+      "weight": 2.206564
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "weight": 1.9494942
+    },
+    {
+      "from": 15,
+      "to": 21,
+      "weight": 125.06823
+    },
+    {
+      "from": 15,
+      "to": 8,
+      "weight": 126.9451
+    },
+    {
+      "from": 15,
+      "to": 25,
+      "weight": 129.23595
+    },
+    {
+      "from": 16,
+      "to": 8,
+      "weight": 126.707664
+    },
+    {
+      "from": 16,
+      "to": 10,
+      "weight": 3.5713675
+    },
+    {
+      "from": 16,
+      "to": 15,
+      "weight": 1.9494942
+    },
+    {
+      "from": 16,
+      "to": 7,
+      "weight": 27.758438
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "weight": 2.5103886
+    },
+    {
+      "from": 17,
+      "to": 1,
+      "weight": 9261.673
+    },
+    {
+      "from": 17,
+      "to": 6,
+      "weight": 4.2572107
+    },
+    {
+      "from": 17,
+      "to": 8,
+      "weight": 129.03435
+    },
+    {
+      "from": 17,
+      "to": 9,
+      "weight": 47.032585
+    },
+    {
+      "from": 17,
+      "to": 16,
+      "weight": 2.5103886
+    },
+    {
+      "from": 17,
+      "to": 5,
+      "weight": 4.624027
+    },
+    {
+      "from": 17,
+      "to": 28,
+      "weight": 135.13652
+    },
+    {
+      "from": 18,
+      "to": 3,
+      "weight": 8633.738
+    },
+    {
+      "from": 18,
+      "to": 10,
+      "weight": 5.9017715
+    },
+    {
+      "from": 18,
+      "to": 21,
+      "weight": 123.960724
+    },
+    {
+      "from": 18,
+      "to": 30,
+      "weight": 134.40388
+    },
+    {
+      "from": 18,
+      "to": 13,
+      "weight": 2.199052
+    },
+    {
+      "from": 19,
+      "to": 7,
+      "weight": 247.80043
+    },
+    {
+      "from": 19,
+      "to": 14,
+      "weight": 223.08357
+    },
+    {
+      "from": 19,
+      "to": 4,
+      "weight": 9680.503
+    },
+    {
+      "from": 19,
+      "to": 24,
+      "weight": 126.71851
+    },
+    {
+      "from": 19,
+      "to": 11,
+      "weight": 222.80516
+    },
+    {
+      "from": 20,
+      "to": 1,
+      "weight": 9381.866
+    },
+    {
+      "from": 20,
+      "to": 5,
+      "weight": 126.74113
+    },
+    {
+      "from": 20,
+      "to": 7,
+      "weight": 153.1507
+    },
+    {
+      "from": 20,
+      "to": 3,
+      "weight": 8743.73
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "weight": 1.2919185
+    },
+    {
+      "from": 21,
+      "to": 4,
+      "weight": 9596.237
+    },
+    {
+      "from": 21,
+      "to": 15,
+      "weight": 125.06823
+    },
+    {
+      "from": 21,
+      "to": 18,
+      "weight": 123.960724
+    },
+    {
+      "from": 21,
+      "to": 20,
+      "weight": 1.2919185
+    },
+    {
+      "from": 21,
+      "to": 10,
+      "weight": 125.79444
+    },
+    {
+      "from": 21,
+      "to": 26,
+      "weight": 10.228962
+    },
+    {
+      "from": 21,
+      "to": 23,
+      "weight": 5.412682
+    },
+    {
+      "from": 22,
+      "to": 12,
+      "weight": 127.103516
+    },
+    {
+      "from": 22,
+      "to": 8,
+      "weight": 2.36094
+    },
+    {
+      "from": 22,
+      "to": 13,
+      "weight": 126.42917
+    },
+    {
+      "from": 22,
+      "to": 29,
+      "weight": 12.542946
+    },
+    {
+      "from": 22,
+      "to": 28,
+      "weight": 10.865335
+    },
+    {
+      "from": 23,
+      "to": 3,
+      "weight": 8746.953
+    },
+    {
+      "from": 23,
+      "to": 9,
+      "weight": 83.7942
+    },
+    {
+      "from": 23,
+      "to": 21,
+      "weight": 5.412682
+    },
+    {
+      "from": 23,
+      "to": 26,
+      "weight": 4.872598
+    },
+    {
+      "from": 23,
+      "to": 6,
+      "weight": 125.5126
+    },
+    {
+      "from": 23,
+      "to": 30,
+      "weight": 11.721158
+    },
+    {
+      "from": 24,
+      "to": 13,
+      "weight": 128.229
+    },
+    {
+      "from": 24,
+      "to": 19,
+      "weight": 126.71851
+    },
+    {
+      "from": 24,
+      "to": 12,
+      "weight": 128.91183
+    },
+    {
+      "from": 24,
+      "to": 4,
+      "weight": 9600.325
+    },
+    {
+      "from": 24,
+      "to": 14,
+      "weight": 128.99492
+    },
+    {
+      "from": 25,
+      "to": 2,
+      "weight": 4719.441
+    },
+    {
+      "from": 25,
+      "to": 11,
+      "weight": 129.04042
+    },
+    {
+      "from": 25,
+      "to": 15,
+      "weight": 129.23595
+    },
+    {
+      "from": 25,
+      "to": 8,
+      "weight": 7.632459
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "weight": 1.70749
+    },
+    {
+      "from": 26,
+      "to": 21,
+      "weight": 10.228962
+    },
+    {
+      "from": 26,
+      "to": 23,
+      "weight": 4.872598
+    },
+    {
+      "from": 26,
+      "to": 25,
+      "weight": 1.70749
+    },
+    {
+      "from": 26,
+      "to": 11,
+      "weight": 130.20935
+    },
+    {
+      "from": 26,
+      "to": 5,
+      "weight": 131.24
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "weight": 1.755091
+    },
+    {
+      "from": 27,
+      "to": 13,
+      "weight": 131.74208
+    },
+    {
+      "from": 27,
+      "to": 12,
+      "weight": 132.43294
+    },
+    {
+      "from": 27,
+      "to": 5,
+      "weight": 132.43604
+    },
+    {
+      "from": 27,
+      "to": 26,
+      "weight": 1.755091
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "weight": 1.7550983
+    },
+    {
+      "from": 28,
+      "to": 4,
+      "weight": 9605.616
+    },
+    {
+      "from": 28,
+      "to": 7,
+      "weight": 160.47754
+    },
+    {
+      "from": 28,
+      "to": 17,
+      "weight": 135.13652
+    },
+    {
+      "from": 28,
+      "to": 27,
+      "weight": 1.7550983
+    },
+    {
+      "from": 28,
+      "to": 14,
+      "weight": 133.73677
+    },
+    {
+      "from": 28,
+      "to": 22,
+      "weight": 10.865335
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "weight": 1.6818131
+    },
+    {
+      "from": 28,
+      "to": 30,
+      "weight": 3.3430576
+    },
+    {
+      "from": 29,
+      "to": 5,
+      "weight": 134.76929
+    },
+    {
+      "from": 29,
+      "to": 7,
+      "weight": 161.64339
+    },
+    {
+      "from": 29,
+      "to": 22,
+      "weight": 12.542946
+    },
+    {
+      "from": 29,
+      "to": 28,
+      "weight": 1.6818131
+    },
+    {
+      "from": 29,
+      "to": 8,
+      "weight": 14.242399
+    },
+    {
+      "from": 29,
+      "to": 11,
+      "weight": 133.87534
+    },
+    {
+      "from": 30,
+      "to": 18,
+      "weight": 134.40388
+    },
+    {
+      "from": 30,
+      "to": 4,
+      "weight": 9608.117
+    },
+    {
+      "from": 30,
+      "to": 23,
+      "weight": 11.721158
+    },
+    {
+      "from": 30,
+      "to": 28,
+      "weight": 3.3430576
+    }
+  ]
+}
